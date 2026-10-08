@@ -1,0 +1,5 @@
+Cluster,Segment,customers,average_balance,total_balance,churned_customers,churn_rate,balance_exposed_to_churn
+0,Low-Engagement Customers,8348,399367.21,3333917449.0,3662,43.87,1462482723.02
+1,High-Value Core Customers,9578,813687.33,7793497223.0,1351,14.11,1099291582.83
+2,Frequent-Activity Customers,2067,430345.21,889523545.0,645,31.2,277572660.45
+3,Extreme-Value Customers,7,793074.0,5551518.0,1,14.29,793074.0
